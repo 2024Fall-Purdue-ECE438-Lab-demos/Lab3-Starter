@@ -18,7 +18,7 @@
 
 ## Submission
 
-### Individual Code Submission
+### Code Submission
 
 In your terminal, change current directory to `lab03-<github_username>`.
 
@@ -28,12 +28,12 @@ git commit -m "update lab report"
 git push
 ```
 
-### Group Lab Report Submission
+### Report Submission
 
-1. Open `lab03_final_report.ipynb`.
+1. Open `lab03_final_report.ipynb` with jupyter notebook.
 
-2. Export it as a PDF file.
-    * Ctrl + P (Windows) or Cmd + P (MacOS)
-    * Save it as a PDF file. You may want to try setting the scale lower if the plots are not fully visible.
+2. Export it as an HTML file.
+    * File -> Download as -> HTML
+    * Save it as an HTML file. Then print it as a PDF file.
 
 3. Submit it to [Gradescope](https://www.gradescope.com/).
